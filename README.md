@@ -46,4 +46,4 @@ docker run mi-app-java
 
 [ ] Docker Compose: Preparar el entorno para conectar la app con una base de datos externa.
 
-Javier Dileo - Estudiante de Tecnico Superior en REdes y Ciberseguridad
+Javier Dileo - Estudiante de Tecnico Superior en Redes y Ciberseguridad
