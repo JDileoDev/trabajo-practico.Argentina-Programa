@@ -45,3 +45,5 @@ docker run mi-app-java
 [ ] GitHub Actions: Implementar un flujo de CI para que la imagen se construya automáticamente al hacer push.
 
 [ ] Docker Compose: Preparar el entorno para conectar la app con una base de datos externa.
+
+Javier Dileo - Estudiante de Tecnico Superior en REdes y Ciberseguridad
